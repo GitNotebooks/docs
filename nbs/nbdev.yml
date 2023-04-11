@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "GitNotebooks Documentation"
-  site-url: "https://docs.gitnotebooks.com"
+  title: "GitNotebooks Docs"
+  site-url: "https://docs.gitnotebooks.com/"
   description: "GitNotebooks Documentation"
   repo-branch: main
   repo-url: "https://github.com/GitNotebooks/docs"
